@@ -58,4 +58,7 @@ Implement Merge Sort and Quicksort (requires refactoring the generator logic for
 
 Add an "Operations Counter" to display real-time comparisons vs. swaps.
 
-Christian Laggui Master's Candidate in AI I am focusing on Computer Science education and currently seeking full-time Lecturer roles. https://www.linkedin.com/in/christian-laggui/
+Christian Laggui 
+Master's Candidate in AI 
+
+I am focusing on Computer Science education and currently seeking full-time Lecturer roles. https://www.linkedin.com/in/christian-laggui/
