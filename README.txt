@@ -38,7 +38,7 @@ Pygame
 Run Locally
 Bash
 ```
-git clone [https://github.com/YOUR_USERNAME/sorting-visualizer.git](https://github.com/YOUR_USERNAME/sorting-visualizer.git)
+git clone [https://github.com/cl623/sorting-visualizer.git](https://github.com/cl623/sorting-visualizer.git)
 cd sorting-visualizer
 pip install pygame
 python visualizer.py
