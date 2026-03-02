@@ -16,7 +16,7 @@ The biggest challenge with visualizing algorithms is keeping the UI responsive. 
 Instead of threading, I used **Python Generators (`yield`)**.
 
 The sorting algorithm doesn't return a final list; it yields control back to the main loop after every single comparison. This allows the Pygame loop to draw one specific frame of the sort, handle user input, and then ask the algorithm for the "next step."
-
+![Alt text](https://github.com/cl623/sorting-visualizer/blob/main/Capture.JPG)
 ```python
 # snippet from visualizer.py
 def bubble_sort_generator(self):
